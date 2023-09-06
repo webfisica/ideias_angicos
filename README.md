@@ -1,4 +1,4 @@
-# Ideias Científicas e Tecnológicas para Angicos
+# Ideias Científicas e Tecnológicas para a Microrregião de Angicos
 
 Este repositório é dedicado a coletar e discutir ideias e projetos científicos e tecnológicos que possam ser aplicados às características específicas da microrregião de Angicos.
 
